@@ -1,12 +1,29 @@
 # Florence Portfolio
 
-Website portfolio untuk Florence, founder. 
+Simple, elegant portfolio website for Florence – founder & AI creator.
+
+## Tech Stack
+- **Framework:** Next.js (App Router)
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Hosting:** Vercel
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
 
 ## Features
-- Simple and clean design
-- Links to social media (Twitter)
+- Responsive design
+- Clean, minimalist aesthetic
+- Contact links (Twitter, email placeholder)
+- Project showcase
+- Fast performance
 
-## Getting Started
-1. Clone the repository.
-2. Run `npm install` untuk menginstall dependencies.
-3. Jalankan `npm run dev` untuk menjalankan server.
+## Deployment
+Automatically deployed via Vercel. Any push to `main` triggers a new build.
+
+## License
+Personal use.
